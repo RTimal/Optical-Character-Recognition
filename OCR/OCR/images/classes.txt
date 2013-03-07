@@ -1,0 +1,186 @@
+
+<--------------sample digits.bmp--------------------->
+Number:0
+upper left r,c 154,65
+bottom right r,c 131,263
+
+Number:3
+upper left r,c 346,65
+bottom right r,c 123,455
+
+Number:4
+upper left r,c 346,170
+bottom right r,c 239,453
+
+Number:1
+upper left r,c 154,198
+bottom right r,c 238,261
+
+Number:2
+upper left r,c 154,302
+bottom right r,c 371,261
+
+
+<---------------IMAGE_1.bmp------------>
+Number:0
+upper left r,c 271,428
+bottom right r,c 593,548
+
+Number:3
+upper left r,c 758,433
+bottom right r,c 577,1033
+
+Number:4
+upper left r,c 757,695
+bottom right r,c 873,1030
+
+Number:1
+upper left r,c 264,761
+bottom right r,c 867,541
+
+Number:2
+upper left r,c 260,1031
+bottom right r,c 1211,539
+
+
+<---------------IMAGE_2.bmp------------>
+Number:3
+upper left r,c 194,472
+bottom right r,c 590,378
+
+Number:3
+upper left r,c 676,492
+bottom right r,c 597,864
+
+Number:3
+upper left r,c 518,701
+bottom right r,c 813,600
+
+Number:1
+upper left r,c 819,759
+bottom right r,c 828,1006
+
+Number:4
+upper left r,c 283,852
+bottom right r,c 972,465
+
+Number:4
+upper left r,c 577,1018
+bottom right r,c 1132,766
+
+
+<---------------IMAGE_3.bmp------------>
+Number:3
+upper left r,c 569,645
+bottom right r,c 706,666
+
+Number:3
+upper left r,c 825,652
+bottom right r,c 708,923
+
+Number:3
+upper left r,c 743,764
+bottom right r,c 822,786
+
+Number:1
+upper left r,c 902,792
+bottom right r,c 826,1000
+
+Number:4
+upper left r,c 620,845
+bottom right r,c 907,717
+
+Number:4
+upper left r,c 777,929
+bottom right r,c 988,876
+
+
+<---------------IMAGE_4.bmp------------>
+Number:3
+upper left r,c 614,362
+bottom right r,c 457,891
+
+Number:0
+upper left r,c 96,392
+bottom right r,c 565,386
+
+Number:4
+upper left r,c 443,556
+bottom right r,c 708,723
+
+Number:4
+upper left r,c 957,679
+bottom right r,c 805,1081
+
+Number:2
+upper left r,c 612,815
+bottom right r,c 979,739
+
+Number:4
+upper left r,c 247,886
+bottom right r,c 1071,531
+
+Number:2
+upper left r,c 785,976
+bottom right r,c 1156,1070
+
+
+<---------------IMAGE_5.bmp------------>
+Number:3
+upper left r,c 568,340
+bottom right r,c 392,729
+
+Number:0
+upper left r,c 267,365
+bottom right r,c 463,435
+
+Number:4
+upper left r,c 471,454
+bottom right r,c 541,634
+
+Number:4
+upper left r,c 776,524
+bottom right r,c 592,846
+
+Number:2
+upper left r,c 573,605
+bottom right r,c 699,650
+
+Number:4
+upper left r,c 362,648
+bottom right r,c 757,528
+
+Number:2
+upper left r,c 679,695
+bottom right r,c 798,846
+
+
+<---------------IMAGE_6.bmp------------>
+Number:4
+upper left r,c 603,352
+bottom right r,c 421,708
+
+Number:3
+upper left r,c 343,453
+bottom right r,c 480,445
+
+Number:3
+upper left r,c 798,485
+bottom right r,c 550,904
+
+Number:4
+upper left r,c 542,520
+bottom right r,c 584,650
+
+Number:4
+upper left r,c 700,689
+bottom right r,c 731,747
+
+Number:2
+upper left r,c 477,794
+bottom right r,c 850,584
+
+Number:2
+upper left r,c 1125,1536
+bottom right r,c 1593,1179
+
